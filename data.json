@@ -49,8 +49,8 @@
             "zh": "一款轻量级的图标整理、启动工具，帮助你组织、访问和管理你喜爱的应用程序，告别凌乱的桌面"
         },
         "link": [
-            "./software/android/XR-Controller_V1.4.143.250603.91316e0_arm64-v8a-release.apk",
-            "./software/android/XR-Controller_V1.4.143.250603.91316e0_armeabi-v7a-release.apk"
+            "./software/pc/QuickLink-v3.12.2便携版.zip",
+            "./software/pc/QuickLink-v3.12.2安装版.exe"
         ],
         "btnNames": {
             "en": ["Windows 便携版"],
