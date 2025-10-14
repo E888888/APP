@@ -1,6 +1,6 @@
 [
     {
-        "logoSrc": "./software/image/VortaDroid.png",
+        "logoSrc": "./software/image/Bandizip.png",
         "name": {
             "en": "Bandizip",
             "zh": "Bandizip"
@@ -19,7 +19,7 @@
         }
     },
     {
-        "logoSrc": "./software/image/RoboManager.png",
+        "logoSrc": "./software/image/Bandizip.png",
         "name": {
             "en": "Bandizip",
             "zh": "Bandizip"
