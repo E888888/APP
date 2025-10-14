@@ -2,20 +2,20 @@
     {
         "logoSrc": "./software/image/VortaDroid.png",
         "name": {
-            "en": "RoboManager for Android",
-            "zh": "RoboManager ROS人形双足机器人android控制软件"
+            "en": "Bandizip",
+            "zh": "Bandizip"
         },
-        "version": "v1.0.40",
+        "version": "v6.25",
         "desc": {
-            "en": "support SamuRoid humanoid bipedal robot",
-            "zh": "支持SamuRoid机甲武士人形双足机器人"
+            "en": "A powerful and versatile compressed file management tool that provides fast decompression speed and various other useful functions。",
+            "zh": "一个强大的多功能压缩文件管理工具，可提供很快的解压缩速度和其他各种实用功能。"
         },
         "link": [
             "./software/android/RoboManager-1.0.40.250930.ec3dcff-release.apk"
         ],
         "btnNames": {
-            "en": ["Android"],
-            "zh": ["Android"]
+            "en": ["Windows"],
+            "zh": ["Windows"]
         }
     },
     {
