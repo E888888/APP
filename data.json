@@ -53,27 +53,8 @@
             "./software/pc/QuickLink-v3.12.2安装版.exe"
         ],
         "btnNames": {
-            "en": ["Windows 便携版"],
-            "zh": ["Windows 安装版"]
-        }
-    },
-    {
-        "logoSrc": "./software/image/xr-controller.png",
-        "name": {
-            "en": "Corgi for iOS",
-            "zh": "Corgi for iOS"
-        },
-        "version": "v1.2.0",
-        "desc": {
-            "en": "support Bionic robots like hexapod、corgi dog.This is part of the iOS implementation of the xr-controller",
-            "zh": "支持六足机器人、柯基狗等仿生机器人的苹果APP"
-        },
-        "link": [
-            "./software/image/xr-controller_IOS.png"
-        ],
-        "btnNames": {
-            "en": ["iOS Code"],
-            "zh": ["iOS 二维码"]
+            "en": ["Windows 便携"],
+            "zh": ["Windows 安装"]
         }
     }
 ]
