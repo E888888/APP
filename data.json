@@ -53,7 +53,7 @@
             "./software/pc/QuickLink-v3.12.2安装版.exe"
         ],
         "btnNames": {
-            "en": ["Windows 便携版","Windows 安装版"],
+            "en": ["Windows Portable","Windows Install"],
             "zh": ["Windows 便携版","Windows 安装版"]
         }
     }
