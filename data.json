@@ -40,21 +40,21 @@
     {
         "logoSrc": "./software/image/xr-controller.png",
         "name": {
-            "en": "XR-Controller for Android",
-            "zh": "XR-Controller for Android"
+            "en": "QuickLink",
+            "zh": "QuickLink"
         },
-        "version": "v1.4.143,arm64,armv7a",
+        "version": "QuickLink-v3.12.2",
         "desc": {
-            "en": "support X-series、Jetbot V2.0、DonkeyCar and Bionic robots",
-            "zh": "支持 X 系列、Jetbot V2.0、DonkeyCar 和仿生机器人"
+            "en": "A lightweight icon organization and launcher tool that helps you organize, access and manage your favorite applications and say goodbye to a cluttered desktop.",
+            "zh": "一款轻量级的图标整理、启动工具，帮助你组织、访问和管理你喜爱的应用程序，告别凌乱的桌面"
         },
         "link": [
             "./software/android/XR-Controller_V1.4.143.250603.91316e0_arm64-v8a-release.apk",
             "./software/android/XR-Controller_V1.4.143.250603.91316e0_armeabi-v7a-release.apk"
         ],
         "btnNames": {
-            "en": ["Android 64-bit", "Android 32-bit"],
-            "zh": ["Android 64位", "Android 32位"]
+            "en": ["Windows 便携版"],
+            "zh": ["Windows 安装版"]
         }
     },
     {
