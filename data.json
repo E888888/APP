@@ -42,16 +42,16 @@
     {
         "logoSrc": "./software/image/QuickLink-logo.png",
         "name": {
-            "en": "Chrome",
-            "zh": "谷歌浏览器"
+            "en": "A Bus Servo Control Terminal Software",
+            "zh": "小R总线舵机控制终端软件"
         },
-        "version": "操最新版本: v3.12.2",
+        "version": "v1.2.3",
         "desc": {
-            "en": "A fast, secure, and free web browser that meets the browser requirements of websites; Chrome is characterized by simplicity and speed。",
-            "zh": "一款快速、安全且免费的网络浏览器，能很好地满足网站对浏览器的要求；Chrome的特点是简洁、快速。"
+            "en": "A software for Bus Servo. Support win 7+",
+            "zh": "小R总线舵机软件。支持XR-3230等舵机，适用于win 7以上系统"
         },
         "link": [
-            "./software/pc/chrome-Windows-11-10_64_bit.exe",
+            "./software/pc/xr-servo-1.2.3.exe"
         ],
         "btnNames": {
             "en": ["Windows"],
