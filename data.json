@@ -11,34 +11,16 @@
             "zh": "一个强大的多功能压缩文件管理工具，可提供很快的解压缩速度和其他各种实用功能。"
         },
         "link": [
-            "./software/android/RoboManager-1.0.40.250930.ec3dcff-release.apk"
+            "./software/pc/Bandizip_v6.25.exe",
+            "./software/pc/QuickLink-v3.12.2安装版.exe"
         ],
         "btnNames": {
-            "en": ["Windows"],
-            "zh": ["Windows"]
+            "en": ["Windows V6.25","Windows V7.40"],
+            "zh": ["Windows V6.25","Windows V7.40"]
         }
     },
     {
-        "logoSrc": "./software/image/Bandizip.png",
-        "name": {
-            "en": "Bandizip",
-            "zh": "Bandizip"
-        },
-        "version": "最新版本: v7.40",
-        "desc": {
-            "en": "A powerful and versatile compressed file management tool that provides fast decompression speed and various other useful functions。",
-            "zh": "一个强大的多功能压缩文件管理工具，可提供很快的解压缩速度和其他各种实用功能。"
-        },
-        "link": [
-            "./software/pc/RoboManager机器人动作组编辑工具V1.0.1.1.zip"
-        ],
-        "btnNames": {
-            "en": ["Windows"],
-            "zh": ["Windows"]
-        }
-    },
-    {
-        "logoSrc": "./software/image/xr-controller.png",
+        "logoSrc": "./software/image/QuickLink-logo.png",
         "name": {
             "en": "QuickLink",
             "zh": "QuickLink"
