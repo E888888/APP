@@ -39,7 +39,7 @@
             "zh": ["Windows 便携版","Windows 安装版"]
         }
     },
-        {
+    {
         "logoSrc": "./software/image/chrome-logo.png",
         "name": {
             "en": "Chrome",
