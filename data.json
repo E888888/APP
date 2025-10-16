@@ -42,13 +42,13 @@
     {
         "logoSrc": "./software/image/QuickLink-logo.png",
         "name": {
-            "en": "A Bus Servo Control Terminal Software",
-            "zh": "小R总线舵机控制终端软件"
+            "en": "Chrome",
+            "zh": "谷歌浏览器"
         },
-        "version": "v1.2.3",
+        "version": "Windows 11/10 64-bit",
         "desc": {
-            "en": "A software for Bus Servo. Support win 7+",
-            "zh": "小R总线舵机软件。支持XR-3230等舵机，适用于win 7以上系统"
+            "en": "Simple design, fast and stable performance, and rich and distinctive plug-ins",
+            "zh": "简洁的设计、快速稳定的性能以及颇具特色的插件极其丰富"
         },
         "link": [
             "./software/pc/xr-servo-1.2.3.exe"
