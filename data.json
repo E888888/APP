@@ -40,7 +40,7 @@
         }
     },
     {
-        "logoSrc": "./software/image/QuickLink-logo.png",
+        "logoSrc": "./software/image/chrome-logo.png",
         "name": {
             "en": "Chrome",
             "zh": "谷歌浏览器"
