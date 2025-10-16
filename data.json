@@ -57,5 +57,24 @@
             "en": ["Windows"],
             "zh": ["Windows"]
         }
+    },
+    {
+        "logoSrc": "./software/image/wpslogo.png",
+        "name": {
+            "en": "WPS",
+            "zh": "WPS"
+        },
+        "version": "版本: 2019 专业版",
+        "desc": {
+            "en": "No ads, simple interface, built-in VBA macros; giving you a more refreshing and concise office experience。",
+            "zh": "无广告，界面简洁，自带VBA宏;让你获得更清爽简洁的办公体验。"
+        },
+        "link": [
+            "./https://www.ilanzou.com/s/rqCZZKDN"
+        ],
+        "btnNames": {
+            "en": ["Windows"],
+            "zh": ["Windows"]
+        }
     }
 ]
