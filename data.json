@@ -7,8 +7,8 @@
         },
         "version": "无广告版本: v6.25 最新版本: v7.40",
         "desc": {
-            "en": "A powerful and versatile compressed file management tool that provides fast decompression speed and various other useful functions。",
-            "zh": "一个强大的多功能压缩文件管理工具，可提供很快的解压缩速度和其他各种实用功能。"
+            "en": "<span style='color:red'>#压缩 #解压 xr-controller。</span>"A powerful and versatile compressed file management tool that provides fast decompression speed and various other useful functions。",
+            "zh": "<span style='color:red'>#压缩 #解压 xr-controller。</span>"一个强大的多功能压缩文件管理工具，可提供很快的解压缩速度和其他各种实用功能。"
         },
         "link": [
             "./software/pc/Bandizip_v6.25.exe",
