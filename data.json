@@ -52,7 +52,7 @@
         },
         "link": [
             "./software/pc/chrome-Windows-11-10_64_bit.exe",
-            "./software/image/Chrome下载.webp"            
+            "./software/image/Chrome下载-ios.webp"            
         ],
         "btnNames": {
             "en": ["Windows", "iOS Code"],
