@@ -51,12 +51,11 @@
             "zh": "一款快速、安全且免费的网络浏览器；拥有简洁的设计、快速稳定的性能以及颇具特色的插件库。"
         },
         "link": [
-            "./software/pc/chrome-Windows-11-10_64_bit.exe",
-            "./software/image/Chrome下载-ios.webp"            
+            "./software/pc/chrome-Windows-11-10_64_bit.exe"          
         ],
         "btnNames": {
-            "en": ["Windows", "iOS Code"],
-            "zh": ["Windows", "iOS 二维码"]
+            "en": ["Windows"],
+            "zh": ["Windows"]
         }
     },
     {
@@ -71,12 +70,11 @@
             "zh": "轻松记账，了解每一笔资金的动向。"
         },
         "link": [
-            "./software/android/家庭收支.xlsx",
             "./software/android/家庭收支.xlsx"
         ],
         "btnNames": {
-            "en": ["Windows 下载", "iOS 下载"],
-            "zh": ["Windows 下载", "iOS 下载"]
+            "en": ["Windows 下载"],
+            "zh": ["Windows 下载"]
         }
     }
 ]
