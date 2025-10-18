@@ -59,22 +59,22 @@
         }
     },
     {
-        "logoSrc": "./software/image/wpslogo.png",
+        "logoSrc": "./software/image/XCEL.png",
         "name": {
-            "en": "WPS",
-            "zh": "WPS"
+            "en": "家庭收支",
+            "zh": "家庭收支"
         },
-        "version": "版本: 2019 专业版",
+        "version": "版本: Excel",
         "desc": {
-            "en": "No ads, simple interface, built-in VBA macros; giving you a more refreshing and concise office experience。",
-            "zh": "无广告，界面简洁，自带VBA宏;让你获得更清爽简洁的办公体验。"
+            "en": "Easily keep accounts and understand the movement of every fund。",
+            "zh": "轻松记账，了解每一笔资金的动向。"
         },
         "link": [
-            "./https://www.ilanzou.com/s/rqCZZKDN"
+            "./software/android/家庭收支.xlsx"
         ],
         "btnNames": {
-            "en": ["Windows"],
-            "zh": ["Windows"]
+            "en": ["点击下载"],
+            "zh": ["点击下载"]
         }
     }
 ]
