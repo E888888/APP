@@ -70,11 +70,12 @@
             "zh": "轻松记账，了解每一笔资金的动向。"
         },
         "link": [
-            "./software/android/家庭收支.xlsx"
+            "./software/android/家庭收支.xlsx",
+            "./software/android/家庭收支.xlsx",
         ],
         "btnNames": {
-            "en": ["点击下载"],
-            "zh": ["点击下载"]
+            "en": ["Windows 下载","iOS 下载"],
+            "zh": ["Windows 下载","iOS 下载"]
         }
     }
 ]
