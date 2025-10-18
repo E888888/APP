@@ -74,8 +74,8 @@
             "./software/android/家庭收支.xlsx"
         ],
         "btnNames": {
-            "en": ["Windows 下载","iOS 下载"],
-            "zh": ["Windows 下载","iOS 下载"]
+            "en": ["Windows 下载", "iOS 下载"],
+            "zh": ["Windows 下载", "iOS 下载"]
         }
     }
 ]
