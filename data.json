@@ -93,6 +93,34 @@
         }
     },
     {
+        "logoSrc": "./software/image/Excel.png",
+        "name": {
+            "en": "Household income and expenditure",
+            "zh": "家庭收支"
+        },
+        "version": "v1.0",
+        "desc": {
+            "en": "Easy budgeting: Understand where every penny of your family's money goes.",
+            "zh": "轻松记账，了解家庭每一笔资金去向。"
+        },
+        "link": [
+            "software/pc/家庭收支.xlsx"
+        ],
+        "btnNames": {
+            "en": [
+                "Windows"
+            ],
+            "zh": [
+                "Windows"
+            ]
+        },
+        "oldVersion": [],
+        "platform": "Windows",
+        "platformVersions": {
+            "版本": "v1.0"
+        }
+    },
+    {
         "logoSrc": "./software/image/SecretFolder.png",
         "name": {
             "en": "SecretFolder",
@@ -118,6 +146,62 @@
         "platform": "Windows",
         "platformVersions": {
             "版本": "v7.5.0.0"
+        }
+    },
+    {
+        "logoSrc": "./software/image/WiseReminder.png",
+        "name": {
+            "en": "Wise Reminder",
+            "zh": "代办提醒"
+        },
+        "version": "v1.3.7.92",
+        "desc": {
+            "en": "A precise task management and reminder tool that efficiently manages your schedule and provides timely reminders, ensuring you never miss anything.",
+            "zh": "精确的事物管理和提醒工具，高效管理你的日程并及时提醒，不再遗漏。"
+        },
+        "link": [
+            "software/pc/WiseReminder_1.3.7.92.exe"
+        ],
+        "btnNames": {
+            "en": [
+                "Windows"
+            ],
+            "zh": [
+                "Windows"
+            ]
+        },
+        "oldVersion": [],
+        "platform": "Windows",
+        "platformVersions": {
+            "版本": "v1.3.7.92"
+        }
+    },
+    {
+        "logoSrc": "./software/image/BirthdayReminder.jpeg",
+        "name": {
+            "en": "Important day reminder",
+            "zh": "重要日提醒"
+        },
+        "version": "v2024",
+        "desc": {
+            "en": "A handy reminder tool for important dates, ensuring you never miss your friends' birthdays, important holidays, or anniversaries!",
+            "zh": "好用的重要日提醒工具，让你永远不会错过亲友的生日以及重要的节日与纪念日！"
+        },
+        "link": [
+            "software/pc/BirthdayReminder.exe"
+        ],
+        "btnNames": {
+            "en": [
+                "Windows"
+            ],
+            "zh": [
+                "Windows"
+            ]
+        },
+        "oldVersion": [],
+        "platform": "Windows",
+        "platformVersions": {
+            "版本": "v2024"
         }
     }
 ]
