@@ -91,5 +91,33 @@
             "便携版": "v3.12.3",
             "安装版": "v3.12.3"
         }
+    },
+    {
+        "logoSrc": "./software/image/SecretFolder.png",
+        "name": {
+            "en": "SecretFolder",
+            "zh": "加密文件夹"
+        },
+        "version": "v7.5.0.0",
+        "desc": {
+            "en": "Hide and protect folders containing private data to prevent attacks from external viruses and malware.",
+            "zh": "隐藏并保护包含私人数据的文件夹，防止外部病毒和恶意软件的攻击。"
+        },
+        "link": [
+            "software/pc/SecretFolder_7.5.0.0.exe"
+        ],
+        "btnNames": {
+            "en": [
+                "Windows"
+            ],
+            "zh": [
+                "Windows"
+            ]
+        },
+        "oldVersion": [],
+        "platform": "Windows",
+        "platformVersions": {
+            "版本": "v7.5.0.0"
+        }
     }
 ]
