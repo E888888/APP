@@ -46,14 +46,14 @@
         ],
         "btnNames": {
             "en": [
-                "Windows便携版"
+                "Windows 便携版"
             ],
             "zh": [
-                "Windows便携版"
+                "Windows 便携版"
             ]
         },
         "oldVersion": [],
-        "platform": "Windows便携版",
+        "platform": "Windows 便携版",
         "platformVersions": {
             "便携版": "v3.12.3",
             "安装版": "v3.12.3"
@@ -75,14 +75,14 @@
         ],
         "btnNames": {
             "en": [
-                "Windows安装版"
+                "Windows 安装版"
             ],
             "zh": [
-                "Windows安装版"
+                "Windows 安装版"
             ]
         },
         "oldVersion": [],
-        "platform": "windows安装版",
+        "platform": "windows 安装版",
         "platformVersions": {
             "便携版": "v3.12.3",
             "安装版": "v3.12.3"
