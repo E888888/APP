@@ -5,7 +5,7 @@
             "en": "Bandizip",
             "zh": "Bandizip"
         },
-        "version": "v1.3.0",
+        "version": "v7.40",
         "desc": {
             "en": "A powerful, multi-functional compressed file management tool that offers image preview, malware scanning, and a variety of other useful features.",
             "zh": "一款强大的多功能压缩文件管理工具，可进行图片预览、恶意软件扫描和其他各种实用功能。"
@@ -15,10 +15,10 @@
         ],
         "btnNames": {
             "en": [
-                "windows"
+                "Windows"
             ],
             "zh": [
-                "windows"
+                "Windows"
             ]
         },
         "oldVersion": [
@@ -26,7 +26,7 @@
             "software/pc/Bandizip/Bandizip_7.27.exe",
             "software/pc/Bandizip/Bandizip_7.40_便携版.zip"
         ],
-        "platform": "windows",
+        "platform": "Windows",
         "platformVersions": {
             "windows": "v7.40"
         }
