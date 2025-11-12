@@ -1,27 +1,29 @@
 [
     {
-        "logoSrc": "./software/image/donkeycar.png",
+        "logoSrc": "./software/image/Bandizip.png",
         "name": {
-            "en": "XR-DonkeyCar",
-            "zh": "XR-DonkeyCar驴车控制"
+            "en": "Bandizip",
+            "zh": "Bandizip"
         },
         "version": "v1.3.0",
         "desc": {
-            "en": "DonkeyCar control application",
-            "zh": "驴车APP控制软件"
+            "en": "An excellent multi-functional compressed file management tool that integrates compression, decompression, browsing, and editing. It offers advanced features such as image preview and malware scanning, supports more than 30 compression formats, and is simple to use yet powerful in function.",
+            "zh": "一款出色的多功能压缩文件管理工具，集压缩解压、浏览编辑为一体，可进行图片预览、恶意软件扫描等高级功能，支持 30 多种压缩格式，操作简单功能强大。"
         },
         "link": [
-            "software/android/DonkeyCar_V1.3.0.apk"
+            "software/pc/bandizip_7-27.exe"
         ],
         "btnNames": {
             "en": [
-                "Android"
+                "windows"
             ],
             "zh": [
-                "Android"
+                "windows"
             ]
         },
-        "oldVersion": [],
+        "oldVersion": [
+            "software/pc/RoboManager机器人动作组编辑工具V1.0.0.18.zip"
+        ],
         "platform": "android",
         "platformVersions": {
             "android": "v1.3.0"
