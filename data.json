@@ -7,8 +7,8 @@
         },
         "version": "v1.3.0",
         "desc": {
-            "en": "An excellent multi-functional compressed file management tool that integrates compression, decompression, browsing, and editing. It offers advanced features such as image preview and malware scanning, supports more than 30 compression formats, and is simple to use yet powerful in function.",
-            "zh": "一款出色的多功能压缩文件管理工具，集压缩解压、浏览编辑为一体，可进行图片预览、恶意软件扫描等高级功能，支持 30 多种压缩格式，操作简单功能强大。"
+            "en": "A powerful, multi-functional compressed file management tool that offers image preview, malware scanning, and a variety of other useful features.",
+            "zh": "一款强大的多功能压缩文件管理工具，可进行图片预览、恶意软件扫描和其他各种实用功能。"
         },
         "link": [
             "software/pc/Bandizip/Bandizip_7.40.exe"
@@ -24,6 +24,7 @@
         "oldVersion": [
             "software/pc/Bandizip/Bandizip_7.25.exe",
             "software/pc/Bandizip/Bandizip_7.27.exe",
+            "software/pc/Bandizip/Bandizip_7.40_便携版.zip",
         ],
         "platform": "windows",
         "platformVersions": {
