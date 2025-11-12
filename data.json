@@ -34,7 +34,7 @@
         "logoSrc": "./software/image/QuickLink.png",
         "name": {
             "en": "QuickLink",
-            "zh": "QuickLink软件管理"
+            "zh": "QuickLink"
         },
         "version": "v3.12.3",
         "desc": {
@@ -65,7 +65,7 @@
         "logoSrc": "./software/image/QuickLink.png",
         "name": {
             "en": "QuickLink",
-            "zh": "QuickLink软件管理"
+            "zh": "QuickLink"
         },
         "version": "v3.12.3",
         "desc": {
