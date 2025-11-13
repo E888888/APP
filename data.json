@@ -206,7 +206,7 @@
             "en": "kaspersky",
             "zh": "卡巴斯基"
         },
-        "version": "v免费基础版",
+        "version": "免费基础版",
         "desc": {
             "en": "Kaspersky antivirus software is the foundation of your computer's security system, protecting your devices, applications, and networks from threats and improving your device's performance.",
             "zh": "kaspersky 反病毒软件是您计算机安全系统的基础，抵御针对您的设备、应用和网络的威胁，提升您的设备性能。"
@@ -225,7 +225,7 @@
         "oldVersion": [],
         "platform": "Windows",
         "platformVersions": {
-            "版本": "v免费基础版"
+            "版本": "免费基础版"
         }
     },
     {
