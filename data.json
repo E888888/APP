@@ -152,8 +152,8 @@
         },
         "version": "v5.0.6",
         "desc": {
-            "en": "An easy-to-use Windows file and folder encryption tool. Generate an encrypted partition to quickly hide and encrypt important files and folders to protect your personal files (documents, photos, videos, emails, etc.) from being seen and opened by others.",
-            "zh": "一款简单易用的Windows文件和文件夹加密工具。生成加密分区，快速隐藏和加密重要的文件和文件夹，用来保护你的个人文件（文档，照片，视频，邮件等），防止被他人看见和打开。"
+            "en": "A simple Windows file and folder encryption tool. Generate partitions to quickly hide and encrypt important files and folders to protect your personal files (documents, photos, videos, etc.) from being seen and opened by others.",
+            "zh": "一款简单易用的Windows文件和文件夹加密工具。生成加密分区，快速隐藏和加密重要的文件和文件夹，用来保护你的个人文件（文档，照片，视频等），防止被他人看见和打开。"
         },
         "link": [
             "software/pc/WiseFolderHiderPro_v5.0.6.zip"
