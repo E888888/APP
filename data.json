@@ -117,6 +117,34 @@
         }
     },
     {
+        "logoSrc": "./software/image/Chrome.pn",
+        "name": {
+            "en": "Chrome",
+            "zh": "谷歌浏览器"
+        },
+        "version": "v64-bit",
+        "desc": {
+            "en": "A browser built just for you.",
+            "zh": "专为您而打造的浏览器。"
+        },
+        "link": [
+            "https://dl.google.com/tag/s/installdataindex/update2/installers/ChromeStandaloneSetup64.exe"
+        ],
+        "btnNames": {
+            "en": [
+                "Windows 64-bit"
+            ],
+            "zh": [
+                "Windows 64-bit"
+            ]
+        },
+        "oldVersion": [],
+        "platform": "Windows",
+        "platformVersions": {
+            "版本": "v64-bit"
+        }
+    },
+    {
         "logoSrc": "./software/image/SecretFolder.png",
         "name": {
             "en": "SecretFolder",
