@@ -94,10 +94,10 @@
             "en": "Household income and expenditure",
             "zh": "家庭收支"
         },
-        "version": "v1.0",
+        "version": "v1.0.0",
         "desc": {
             "en": "Easy budgeting: Understand where every penny of your family's money goes.",
-            "zh": "轻松记账，了解家庭每一笔资金去向。"
+            "zh": "轻松记账，了解家庭每一笔资金动向。"
         },
         "link": [
             "software/pc/家庭收支.xlsx"
@@ -113,7 +113,7 @@
         "oldVersion": [],
         "platform": "Windows",
         "platformVersions": {
-            "版本": "v1.0"
+            "版本": "v1.0.0"
         }
     },
     {
