@@ -117,7 +117,7 @@
         }
     },
     {
-        "logoSrc": "./software/image/Chrome.pn",
+        "logoSrc": "./software/image/Chrome.png",
         "name": {
             "en": "Chrome",
             "zh": "谷歌浏览器"
