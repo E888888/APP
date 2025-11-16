@@ -320,8 +320,8 @@
         },
         "version": "V3.17.29",
         "desc": {
-            "en": "A smart inventory management app that intelligently identifies and quickly inputs information; it helps you efficiently organize your items, intelligently reminds you of expiration dates, and reduces waste in your life.",
-            "zh": "一款智能囤货管理APP，智能识别，快速录入；帮你高效整理物品、智能提醒保质期，让生活减少浪费。"
+            "en": "A smart inventory management app that allows for quick data entry via barcode scanning; efficiently organizes items.",
+            "zh": "智能囤货管理APP，扫码识别，快速录入；高效整理物品。"
         },
         "link": [
             "software/pc/收起来.exe"
