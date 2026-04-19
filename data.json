@@ -42,7 +42,7 @@
             ]
         },
         "oldVersion": [
-            "software/pc/QuickLink/QuickLink_V3.13.1_便携版.zip"
+            ""
         ],
         "platform": "Windows 便携版",
         "platformVersions": {
@@ -68,7 +68,7 @@
             ]
         },
         "oldVersion": [
-            "software/pc/QuickLink/QuickLink_V3.13.1_安装版.exe"
+            ""
         ],
         "platform": "windows 安装版",
         "platformVersions": {
@@ -81,7 +81,7 @@
         "name": {
             "zh": "家庭收支"
         },
-        "version": "v1.0",
+        "version": "v1",
         "desc": {
             "zh": "轻松记账，了解家庭每一笔资金动向。"
         },
@@ -96,7 +96,7 @@
         "oldVersion": [],
         "platform": "Windows",
         "platformVersions": {
-            "版本": "v1.0"
+            "版本": "v1"
         }
     },
     {
