@@ -123,52 +123,6 @@
         }
     },
     {
-        "logoSrc": "./software/image/WiseFolderHiderPro.png",
-        "name": {
-            "zh": "Wise Folder Hider Pro"
-        },
-        "version": "v5.0.6",
-        "desc": {
-            "zh": "一款简单易用的Windows文件和文件夹加密工具。生成加密分区，快速隐藏和加密重要的文件和文件夹，用来保护你的个人文件（文档，照片，视频等），防止被他人看见和打开。"
-        },
-        "link": [
-            "software/pc/WiseFolderHiderPro_v5.0.6.zip"
-        ],
-        "btnNames": {
-            "zh": [
-                "Windows"
-            ]
-        },
-        "oldVersion": [],
-        "platform": "Windows",
-        "platformVersions": {
-            "版本": "v5.0.6"
-        }
-    },
-    {
-        "logoSrc": "./software/image/SecretFolder.png",
-        "name": {
-            "zh": "加密文件夹"
-        },
-        "version": "v7.5.0.0",
-        "desc": {
-            "zh": "隐藏并保护包含私人数据的文件夹，防止外部病毒和恶意软件的攻击。"
-        },
-        "link": [
-            "software/pc/SecretFolder_7.5.0.0.exe"
-        ],
-        "btnNames": {
-            "zh": [
-                "Windows"
-            ]
-        },
-        "oldVersion": [],
-        "platform": "Windows",
-        "platformVersions": {
-            "版本": "v7.5.0.0"
-        }
-    },
-    {
         "logoSrc": "./software/image/WiseReminder.png",
         "name": {
             "zh": "代办提醒"
@@ -235,29 +189,6 @@
         "platform": "Windows",
         "platformVersions": {
             "版本": "免费基础版"
-        }
-    },
-    {
-        "logoSrc": "./software/image/shouqilai.png",
-        "name": {
-            "zh": "收起来"
-        },
-        "version": "V3.17.29",
-        "desc": {
-            "zh": "智能囤货管理APP，扫码识别，快速录入；高效整理物品。"
-        },
-        "link": [
-            "software/pc/收起来.exe"
-        ],
-        "btnNames": {
-            "zh": [
-                "Windows"
-            ]
-        },
-        "oldVersion": [],
-        "platform": "Windows",
-        "platformVersions": {
-            "版本": "V3.17.29"
         }
     }
 ]
