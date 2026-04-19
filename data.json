@@ -29,12 +29,12 @@
         "name": {
             "zh": "QuickLink"
         },
-        "version": "V3.13.1",
+        "version": "V2",
         "desc": {
             "zh": "轻量级的图标整理、启动工具，帮助你组织、访问和管理你喜爱的应用程序，告别凌乱的桌面。"
         },
         "link": [
-            "software/pc/QuickLink/QuickLink_V3.13.1_便携版.zip"
+            "software/pc/QuickLink/QuickLynk便携版.zip"
         ],
         "btnNames": {
             "zh": [
@@ -42,12 +42,12 @@
             ]
         },
         "oldVersion": [
-            "software/pc/QuickLink/QuickLink_3.12.3_便携版.zip"
+            "software/pc/QuickLink/QuickLink_V3.13.1_便携版.zip"
         ],
         "platform": "Windows 便携版",
         "platformVersions": {
-            "便携版": "V3.13.1",
-            "安装版": "V3.13.1"
+            "便携版": "V2",
+            "安装版": "V2"
         }
     },
     {
@@ -55,12 +55,12 @@
         "name": {
             "zh": "QuickLink"
         },
-        "version": "V3.13.1",
+        "version": "V2",
         "desc": {
             "zh": "一款轻量级的图标整理、启动工具，帮助你组织、访问和管理你喜爱的应用程序，告别凌乱的桌面。"
         },
         "link": [
-            "software/pc/QuickLink/QuickLink_V3.13.1_安装版.exe"
+            "software/pc/QuickLink/QuickLynk安装版.zip"
         ],
         "btnNames": {
             "zh": [
@@ -68,12 +68,12 @@
             ]
         },
         "oldVersion": [
-            "software/pc/QuickLink/QuickLink_3.12.3_安装版.exe"
+            "software/pc/QuickLink/QuickLink_V3.13.1_安装版.exe"
         ],
         "platform": "windows 安装版",
         "platformVersions": {
-            "便携版": "V3.13.1",
-            "安装版": "V3.13.1"
+            "便携版": "V2",
+            "安装版": "V2"
         }
     },
     {
@@ -81,7 +81,7 @@
         "name": {
             "zh": "家庭收支"
         },
-        "version": "v1.0.0",
+        "version": "v1.0",
         "desc": {
             "zh": "轻松记账，了解家庭每一笔资金动向。"
         },
@@ -96,7 +96,7 @@
         "oldVersion": [],
         "platform": "Windows",
         "platformVersions": {
-            "版本": "v1.0.0"
+            "版本": "v1.0"
         }
     },
     {
