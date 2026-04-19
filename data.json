@@ -2,21 +2,16 @@
     {
         "logoSrc": "./software/image/Bandizip.png",
         "name": {
-            "en": "Bandizip",
             "zh": "Bandizip"
         },
         "version": "V7.40",
         "desc": {
-            "en": "A powerful, multi-functional compressed file management tool that offers image preview, malware scanning, and a variety of other useful features.",
             "zh": "一款强大的多功能压缩文件管理工具，可进行图片预览、恶意软件扫描和其他各种实用功能。"
         },
         "link": [
             "software/pc/Bandizip/Bandizip_7.40.exe"
         ],
         "btnNames": {
-            "en": [
-                "Windows"
-            ],
             "zh": [
                 "Windows"
             ]
@@ -32,21 +27,16 @@
  {
         "logoSrc": "./software/image/QuickLink.png",
         "name": {
-            "en": "QuickLink",
             "zh": "QuickLink"
         },
         "version": "V3.13.1",
         "desc": {
-            "en": "A lightweight icon organizer and startup tool that helps you organize, access and manage your favorite applications, and say goodbye to a messy desktop.",
             "zh": "轻量级的图标整理、启动工具，帮助你组织、访问和管理你喜爱的应用程序，告别凌乱的桌面。"
         },
         "link": [
             "software/pc/QuickLink/QuickLink_V3.13.1_便携版.zip"
         ],
         "btnNames": {
-            "en": [
-                "Windows 便携版"
-            ],
             "zh": [
                 "Windows 便携版"
             ]
@@ -63,21 +53,16 @@
     {
         "logoSrc": "./software/image/QuickLink.png",
         "name": {
-            "en": "QuickLink",
             "zh": "QuickLink"
         },
         "version": "V3.13.1",
         "desc": {
-            "en": "A lightweight icon organizer and launcher tool that helps you organize, access, and manage your favorite applications, saying goodbye to a cluttered desktop.",
             "zh": "一款轻量级的图标整理、启动工具，帮助你组织、访问和管理你喜爱的应用程序，告别凌乱的桌面。"
         },
         "link": [
             "software/pc/QuickLink/QuickLink_V3.13.1_安装版.exe"
         ],
         "btnNames": {
-            "en": [
-                "Windows 安装版"
-            ],
             "zh": [
                 "Windows 安装版"
             ]
@@ -94,21 +79,16 @@
     {
         "logoSrc": "./software/image/Excel.png",
         "name": {
-            "en": "Household income and expenditure",
             "zh": "家庭收支"
         },
         "version": "v1.0.0",
         "desc": {
-            "en": "Easy budgeting: Understand where every penny of your family's money goes.",
             "zh": "轻松记账，了解家庭每一笔资金动向。"
         },
         "link": [
             "software/pc/家庭收支密码：000.xlsx"
         ],
         "btnNames": {
-            "en": [
-                "Windows"
-            ],
             "zh": [
                 "Windows"
             ]
@@ -122,21 +102,16 @@
     {
         "logoSrc": "./software/image/Chrome.png",
         "name": {
-            "en": "Chrome",
             "zh": "谷歌浏览器"
         },
         "version": "v64-bit",
         "desc": {
-            "en": "A browser built just for you.",
             "zh": "专为您而打造的浏览器。"
         },
         "link": [
             "https://dl.google.com/tag/s/installdataindex/update2/installers/ChromeStandaloneSetup64.exe"
         ],
         "btnNames": {
-            "en": [
-                "Windows 64-bit"
-            ],
             "zh": [
                 "Windows 64-bit"
             ]
@@ -150,21 +125,16 @@
     {
         "logoSrc": "./software/image/WiseFolderHiderPro.png",
         "name": {
-            "en": "Wise Folder Hider Pro",
             "zh": "Wise Folder Hider Pro"
         },
         "version": "v5.0.6",
         "desc": {
-            "en": "A simple Windows file and folder encryption tool. Generate partitions to quickly hide and encrypt important files and folders to protect your personal files (documents, photos, videos, etc.) from being seen and opened by others.",
             "zh": "一款简单易用的Windows文件和文件夹加密工具。生成加密分区，快速隐藏和加密重要的文件和文件夹，用来保护你的个人文件（文档，照片，视频等），防止被他人看见和打开。"
         },
         "link": [
             "software/pc/WiseFolderHiderPro_v5.0.6.zip"
         ],
         "btnNames": {
-            "en": [
-                "Windows"
-            ],
             "zh": [
                 "Windows"
             ]
@@ -178,21 +148,16 @@
     {
         "logoSrc": "./software/image/SecretFolder.png",
         "name": {
-            "en": "SecretFolder",
             "zh": "加密文件夹"
         },
         "version": "v7.5.0.0",
         "desc": {
-            "en": "Hide and protect folders containing private data to prevent attacks from external viruses and malware.",
             "zh": "隐藏并保护包含私人数据的文件夹，防止外部病毒和恶意软件的攻击。"
         },
         "link": [
             "software/pc/SecretFolder_7.5.0.0.exe"
         ],
         "btnNames": {
-            "en": [
-                "Windows"
-            ],
             "zh": [
                 "Windows"
             ]
@@ -206,21 +171,16 @@
     {
         "logoSrc": "./software/image/WiseReminder.png",
         "name": {
-            "en": "Wise Reminder",
             "zh": "代办提醒"
         },
         "version": "v1.3.7",
         "desc": {
-            "en": "A precise task management and reminder tool that efficiently manages your schedule and provides timely reminders so you never miss anything.",
             "zh": "精确的事务管理和提醒工具，高效管理你的日程并及时提醒，不再遗漏。"
         },
         "link": [
             "software/pc/WiseReminder_1.3.7.92.exe"
         ],
         "btnNames": {
-            "en": [
-                "Windows"
-            ],
             "zh": [
                 "Windows"
             ]
@@ -234,21 +194,16 @@
     {
         "logoSrc": "./software/image/BirthdayReminder.jpeg",
         "name": {
-            "en": "Important day reminder",
             "zh": "重要日提醒"
         },
         "version": "v2024",
         "desc": {
-            "en": "A handy reminder tool for important dates, ensuring you never miss your friends' birthdays, important holidays, or anniversaries!",
             "zh": "好用的重要日提醒工具，让你永远不会错过亲友的生日以及重要的节日与纪念日！"
         },
         "link": [
             "software/pc/BirthdayReminder.exe"
         ],
         "btnNames": {
-            "en": [
-                "Windows"
-            ],
             "zh": [
                 "Windows"
             ]
@@ -262,21 +217,16 @@
     {
         "logoSrc": "./software/image/卡巴斯基logo.png",
         "name": {
-            "en": "kaspersky",
             "zh": "卡巴斯基"
         },
         "version": "免费基础版",
         "desc": {
-            "en": "Kaspersky antivirus software is the foundation of your computer's security system, protecting your devices, applications, and networks from threats and improving your device's performance.",
             "zh": "kaspersky 反病毒软件是您计算机安全系统的基础，抵御针对您的设备、应用和网络的威胁，提升您的设备性能。"
         },
         "link": [
             "software/pc/kaspersky免费版.exe"
         ],
         "btnNames": {
-            "en": [
-                "Windows"
-            ],
             "zh": [
                 "Windows"
             ]
@@ -288,51 +238,18 @@
         }
     },
     {
-        "logoSrc": "./software/image/Seewo.png",
-        "name": {
-            "en": "Seewo Freezing Point",
-            "zh": "希沃冰点"
-        },
-        "version": "V1.2.6",
-        "desc": {
-            "en": "Free system restore software protects the system from modification and effectively resists virus intrusion and intentional or unintentional damage to the system.",
-            "zh": "免费的系统还原软件，保护系统不被更改，能够很好的抵御病毒的入侵以及人为的对系统有意或无意的破坏。"
-        },
-        "link": [
-            "software/pc/希沃冰点_V1.2.6.zip"
-        ],
-        "btnNames": {
-            "en": [
-                "Windows"
-            ],
-            "zh": [
-                "Windows"
-            ]
-        },
-        "oldVersion": [],
-        "platform": "Windows",
-        "platformVersions": {
-            "版本": "V1.2.6"
-        }
-    },
-    {
         "logoSrc": "./software/image/shouqilai.png",
         "name": {
-            "en": "put away",
             "zh": "收起来"
         },
         "version": "V3.17.29",
         "desc": {
-            "en": "A smart inventory management app that allows for quick data entry via barcode scanning; efficiently organizes items.",
             "zh": "智能囤货管理APP，扫码识别，快速录入；高效整理物品。"
         },
         "link": [
             "software/pc/收起来.exe"
         ],
         "btnNames": {
-            "en": [
-                "Windows"
-            ],
             "zh": [
                 "Windows"
             ]
