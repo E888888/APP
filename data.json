@@ -148,9 +148,9 @@
     {
         "logoSrc": "./software/image/BirthdayReminder.jpeg",
         "name": {
-            "zh": "重要日提醒"
+            "zh": "生日提醒王"
         },
-        "version": "v2024",
+        "version": "2024免费版",
         "desc": {
             "zh": "好用的重要日提醒工具，让你永远不会错过亲友的生日以及重要的节日与纪念日！"
         },
@@ -165,7 +165,7 @@
         "oldVersion": [],
         "platform": "Windows",
         "platformVersions": {
-            "版本": "v2024"
+            "版本": "2024免费版"
         }
     },
     {
