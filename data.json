@@ -81,7 +81,7 @@
         "name": {
             "zh": "家庭收支"
         },
-        "version": "v1",
+        "version": "V1",
         "desc": {
             "zh": "轻松记账，了解家庭每一笔资金动向。"
         },
@@ -96,7 +96,7 @@
         "oldVersion": [],
         "platform": "Windows",
         "platformVersions": {
-            "版本": "v1"
+            "版本": "V1"
         }
     },
     {
@@ -104,7 +104,7 @@
         "name": {
             "zh": "谷歌浏览器"
         },
-        "version": "v64-bit",
+        "version": "64-bit",
         "desc": {
             "zh": "专为您而打造的浏览器。"
         },
@@ -119,7 +119,30 @@
         "oldVersion": [],
         "platform": "Windows",
         "platformVersions": {
-            "版本": "v64-bit"
+            "版本": "64-bit"
+        }
+    },
+    {
+        "logoSrc": "./software/image/WiseFolderHiderPro.png",
+        "name": {
+            "zh": "Wise Folder Hider Pro"
+        },
+        "version": "5.0.9",
+        "desc": {
+            "zh": "专业的文件/文件夹隐藏和加密工具。"
+        },
+        "link": [
+            "software/pc/Wise Folder Hider Pro_5.0.9.239.exe"
+        ],
+        "btnNames": {
+            "zh": [
+                "Windows"
+            ]
+        },
+        "oldVersion": [],
+        "platform": "Windows",
+        "platformVersions": {
+            "版本": "5.0.9"
         }
     },
     {
@@ -127,7 +150,7 @@
         "name": {
             "zh": "代办提醒"
         },
-        "version": "v1.3.7",
+        "version": "1.3.7",
         "desc": {
             "zh": "精确的事务管理和提醒工具，高效管理你的日程并及时提醒，不再遗漏。"
         },
@@ -142,7 +165,7 @@
         "oldVersion": [],
         "platform": "Windows",
         "platformVersions": {
-            "版本": "v1.3.7"
+            "版本": "1.3.7"
         }
     },
     {
