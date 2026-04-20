@@ -4,7 +4,7 @@
         "name": {
             "zh": "Bandizip"
         },
-        "version": "V7.40",
+        "version": "7.40",
         "desc": {
             "zh": "一款强大的多功能压缩文件管理工具，可进行图片预览、恶意软件扫描和其他各种实用功能。"
         },
@@ -21,7 +21,7 @@
         ],
         "platform": "Windows",
         "platformVersions": {
-            "版本": "v7.40"
+            "版本": "7.40"
         }
     },
  {
