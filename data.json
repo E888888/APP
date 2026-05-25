@@ -101,27 +101,27 @@
             "版本": "V1"
         }
     },
-    {
-        "logoSrc": "./software/image/Chrome.png",
+        {
+        "logoSrc": "./software/image/Excel.png",
         "name": {
-            "zh": "谷歌浏览器"
+            "zh": "数据库查询"
         },
-        "version": "64-bit",
+        "version": "V1",
         "desc": {
-            "zh": "专为您而打造的浏览器。"
+            "zh": "打造简单的查询库，资料库，等（需要宏，Excel自带宏，WPS需要装宏插件）MAC无法使用。"
         },
         "link": [
-            "https://dl.google.com/tag/s/installdataindex/update2/installers/ChromeStandaloneSetup64.exe"
+            "software/pc/数据库查询表格VBA.xlsm"
         ],
         "btnNames": {
             "zh": [
-                "Windows 64-bit"
+                "Windows"
             ]
         },
         "oldVersion": [],
         "platform": "Windows",
         "platformVersions": {
-            "版本": "64-bit"
+            "版本": "V1"
         }
     },
     {
