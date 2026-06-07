@@ -129,22 +129,24 @@
         "name": {
             "zh": "Wise Folder Hider Pro"
         },
-        "version": "5.0.9",
+        "version": "5.1.1",
         "desc": {
             "zh": "专业的文件/文件夹隐藏和加密工具。"
         },
         "link": [
-            "software/pc/Wise Folder Hider Pro_5.0.9.239.exe"
+            "software/pc/Wise Folder Hider Pro_5.1.1.244.exe"
         ],
         "btnNames": {
             "zh": [
                 "Windows"
             ]
         },
-        "oldVersion": [],
+        "oldVersion": [
+            "software/pc/Wise Folder Hider Pro_5.0.9.239.exe"
+        ],
         "platform": "Windows",
         "platformVersions": {
-            "版本": "5.0.9"
+            "版本": "5.1.1"
         }
     },
     {
